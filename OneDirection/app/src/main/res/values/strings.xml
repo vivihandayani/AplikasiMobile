@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplikasi Fantasy 1D</string>
+    <string name="ucapan_selamat_datang">Di Aplikasi Pilih Idolamu</string>
+    <string-array name="idola">
+        <item>Harry Styles</item>
+        <item>Niall Horan</item>
+        <item>Zayn Malik</item>
+        <item>Louis Tomlinson</item>
+        <item>Liam Payne</item>
+    </string-array>
+</resources>
